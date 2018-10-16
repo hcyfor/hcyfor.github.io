@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>https://hcyfor.github.io/2018/10/16/Tutorial/</loc>
+        <lastmod>2018-10-16T14:31:56.135Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://hcyfor.github.io/2017/03/18/hexo-theme-beantech/</loc>
         <lastmod>2018-10-16T14:15:18.949Z</lastmod>
         <changefreq>weekly</changefreq>
