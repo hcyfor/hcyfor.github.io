@@ -3,7 +3,7 @@
 
     <sitemap>
         <loc>hcyfor.github.io/post-sitemap.xml</loc>
-        <lastmod>2018-10-16T16:22:53.141Z</lastmod>
+        <lastmod>2018-10-17T09:48:05.306Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -12,8 +12,13 @@
     </sitemap>
 
     <sitemap>
+        <loc>hcyfor.github.io/category-sitemap.xml</loc>
+        <lastmod>2018-10-17T09:48:05.306Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>hcyfor.github.io/tag-sitemap.xml</loc>
-        <lastmod>2018-10-16T14:15:18.949Z</lastmod>
+        <lastmod>2018-10-16T17:35:17.016Z</lastmod>
     </sitemap>
 
 </sitemapindex>
